@@ -1,4 +1,4 @@
- [![MasterHead](https://media.licdn.com/dms/image/D4D12AQFF7jhgOcrsRQ/article-cover_image-shrink_600_2000/0/1683786168554?e=2147483647&v=beta&t=h6ZpTdZNQ3j3lPoz8aSmu2c2bQhDJ-9SPdv0_gmBYJY)]
+![MasterHead](https://media.licdn.com/dms/image/D4D12AQFF7jhgOcrsRQ/article-cover_image-shrink_600_2000/0/1683786168554?e=2147483647&v=beta&t=h6ZpTdZNQ3j3lPoz8aSmu2c2bQhDJ-9SPdv0_gmBYJY)
 
 <h1 align="center">Hi 👋, I'm Lale MAOULOUD!</h1>
 <h3 align="center">I'm a passionate Master's student in Bioinformatics at the University of Rouen, France 🇫🇷.</h3>
