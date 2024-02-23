@@ -1,22 +1,21 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQFF7jhgOcrsRQ/article-cover_image-shrink_600_2000/0/1683786168554?e=2147483647&v=beta&t=h6ZpTdZNQ3j3lPoz8aSmu2c2bQhDJ-9SPdv0_gmBYJY)
-
 <h1 align="center">Hi 👋, I'm Lale MAOULOUD!</h1>
 <h3 align="center">I'm a passionate Master's student in Bioinformatics at the University of Rouen, France 🇫🇷.</h3>
 <img align="right" alt="Coding" width="400" src ="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 🔭 I’m currently working on my internship project at EMBL-EBI, Cambridge. The project involves the development and application of a metagenome annotation workflow using the graph-based tool, ggcaller. You can find the link to ggcaller, which was developed by my supervisor Samuel Horsfield at EMBL-EBI(https://github.com/bacpop/ggCaller)
+- 🔭 **I’m currently working on my internship project at EMBL-EBI, Cambridge 🇬🇧. The project involves the development and application of a metagenome annotation workflow using the graph-based tool, ggcaller. You can find the link to ggcaller, which was developed by my supervisor Samuel Horsfield at EMBL-EBI**(https://github.com/bacpop/ggCaller)
 
-- 💻 **I love coding and exploring various bioinformatics tools and algorithms to unravel the mysteries of life encoded in DNA**
+- 💻 **With a keen interest in gene therapy, I'm committed to leveraging AI and machine learning techniques to drive groundbreaking advancements in personalized medicine, ultimately aiming to enhance patient outcomes and contribute to the forefront of medical innovation.**
 
-- 🌱 **I'm always eager to learn and expand my knowledge, whether it's through coursework, research projects, or collaborating on exciting open-source initiatives**
+- 🌱 **Always driven by a thirst for knowledge, I actively seek opportunities to expand my expertise through coursework, research endeavors, and collaborative open-source initiatives. Currently, I'm focused on honing my skills in AI and machine learning applications within the realm of bioinformatics, striving to stay at the cutting edge of this dynamic and rapidly evolving field.**
 
-- 🔬 **Fascinated by the intersection of biology, computer science, and data analysis, I'm on a mission to contribute meaningfully to the advancement of life sciences.**
+- 🔬 **My fascination lies at the intersection of biology, computer science, and data analysis, where I am dedicated to making meaningful contributions to the progression of life sciences.**
 
-- 📫 How to reach me **lale.maouloud@univ-rouen.fr**
+- 📫 **Feel free to connect with me via email at **lale.maouloud@univ-rouen.fr**. I'm always open to engaging in discussions, collaborations, or sharing insights on our mutual interests.**
 
-- 🌟 **When I'm not immersed in bioinformatics, you can find me hiking in nature, experimenting with new recipes in the kitchen, or lost in a good book.**
+- 🌟 **When I'm not immersed in bioinformatics, you can find me indulging my curiosity in the great outdoors, experimenting with culinary creations in the kitchen, or losing myself in the pages of a captivating book.**
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
