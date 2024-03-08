@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Master's student in Bioinformatics at the University of Rouen, France 🇫🇷.</h3>
 <img align="right" alt="Coding" width="400" src ="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 🔭 **I’m currently working on my internship project at EMBL-EBI, Cambridge 🇬🇧. The project involves the development and application of a metagenome annotation workflow using the graph-based tool, ggcaller. You can find the link to ggcaller, which was developed by my supervisor at EMBL-EBI**(https://github.com/bacpop/ggCaller)
+- 🔭 **I’m currently working on my internship project at EMBL-EBI, Cambridge 🇬🇧. The project involves the development and application of a metagenome annotation workflow using the graph-based tool, ggcaller**(https://github.com/bacpop/ggCaller)
 
 - 💻 **With a keen interest in gene therapy, I'm committed to leveraging AI and machine learning techniques to drive groundbreaking advancements in personalized medicine, ultimately aiming to enhance patient outcomes and contribute to the forefront of medical innovation.**
 
