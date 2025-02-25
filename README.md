@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lale 😃!</h1>
-<h3 align="center">I'm a passionate Master's student in Bioinformatics at the University of Rouen Normandy.</h3>
+<h3 align="center">I'm a PASSIONATE Master's student in Bioinformatics at the University of Rouen Normandy.</h3>
 <img align="right" alt="Coding" width="400" src ="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 - 💻 **With a keen interest in AI and Biology 🧬, I’m currently working on my apprenticeship project at Bioptimus in Paris, France 🇫🇷**
 
-- 📫 **Feel free to connect with me via linkedin or email at **lale.maouloud@univ-rouen.fr**. I'm always open to engaging in discussions, collaborations, or sharing insights on our mutual interests!**
+- 📫 **Feel free to connect with me via <a href="https://www.linkedin.com/in/lale-maouloud/"> Linkedin </a> or email at **lale.maouloud@univ-rouen.fr**. I'm always open to engaging in discussions, collaborations, or sharing insights on our mutual interests!**
 
-- 🌟 **When I'm not immersed in bioinformatics, you can find me indulging my curiosity in the great outdoors, experimenting with culinary creations in the kitchen, or losing myself in the pages of a captivating book.**
+- 🌟 **When I'm not immersed in bioinformatics 👩🏻‍💻, you can find me indulging my curiosity in the great outdoors—running in Paris along the Seine 🏃🏻‍♀️, playing tennis 🎾, or losing myself in the pages of a captivating book 📖!**
 
 
 
