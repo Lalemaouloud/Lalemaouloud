@@ -4,11 +4,11 @@
 
 - 💻 **With a keen interest in AI and Biology 🧬, I’m currently working on my apprenticeship project at Bioptimus in Paris, France 🇫🇷**
 
-- 📫 **Feel free to connect with me via <a href="https://www.linkedin.com/in/lale-maouloud/"> Linkedin </a> or email at **lale.maouloud@univ-rouen.fr**. I'm always open to engaging in discussions, collaborations, or sharing insights on our mutual interests!**
-
-- 🌟 **When I'm not immersed in bioinformatics 👩🏻‍💻, you can find me indulging my curiosity in the great outdoors—running in Paris along the Seine 🏃🏻‍♀️, playing tennis 🎾, or losing myself in the pages of a captivating book 📖!**
 
 
+- 🌟 **When I'm not working on my projects 👩🏻‍💻, you can find me running in Paris along la Seine 🏃🏻‍♀️, playing tennis 🎾, or losing myself in the pages of a nice book 📖!**
+
+- 📫 **Feel free to connect with me via <a href="https://www.linkedin.com/in/lale-maouloud/"> Linkedin </a> or email at **lale.maouloud@univ-rouen.fr**. I'm always open to engaging in new discussions!**
 
 <p align="left">
 </p>
