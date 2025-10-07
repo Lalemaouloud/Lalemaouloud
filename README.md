@@ -6,7 +6,7 @@
 
 
 
-- 🌟 **When I'm not working on my projects 👩🏻‍💻, you can find me running in Paris along la Seine 🏃🏻‍♀️, playing tennis 🎾, or losing myself in the pages of a nice book 📖!**
+- 🌟 **When I'm not working on my projects 👩🏻‍💻, you can find me walking in Paris along la Seine, playing tennis 🎾, or losing myself in the pages of a nice book 📖!**
 
 - 📫 **Feel free to connect with me via <a href="https://www.linkedin.com/in/lale-maouloud/"> Linkedin </a> or email at **lale.maouloud@univ-rouen.fr**. I'm always open to engaging in new discussions!**
 
