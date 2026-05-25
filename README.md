@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Lale, a Computational Biology researcher working at the intersection of machine learning, spatial biology, and multimodal foundation models.</h3>
+<h3 align="center">Hi, I'm Lale. A Computational Biology researcher working at the intersection of machine learning, spatial biology, and multimodal foundation models.</h3>
 
 - 💻 **My work focuses on building computational methods to better understand biological systems.**
 
