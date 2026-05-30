@@ -1,9 +1,6 @@
 <h3 align="center">Hi, I'm Lale. A Computational Biology researcher working at the intersection of machine learning, spatial biology, and multimodal foundation models.</h3>
 
-- 💻 **My work focuses on building computational methods to better understand biological systems.**
-
-
-- 🌟 **Currently based in Paris, I work on applied AI for biology while exploring how machine learning can contribute to more precise and scalable biomedical research.**
+- 💻 **Currently based in Paris, I work on applied AI for biology while exploring how machine learning can contribute to more precise and scalable biomedical research.**
 
 - 🫆 **Beyond research, I enjoy wandering through Paris with a good podcast in my ears, whether it’s about science or not. I spend a lot of time thinking about both mental and physical well-being — through philosophy, nutritional science, sports, and the simple pleasure of spending time with friends.**
 
